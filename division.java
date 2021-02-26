@@ -1,6 +1,6 @@
 
 /* 
 
-Divide to conquer
+  Divide to conquer
 
 */

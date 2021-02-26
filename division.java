@@ -1,6 +1,0 @@
-
-/* 
-
-Divide to conquer
-
-*/
